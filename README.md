@@ -16,6 +16,10 @@ For example; fill entire screen, fix the warnings about "Might not work with you
 
 - New Menu button on bottom bar (for opening the old Android overflow menu)
 
+## Todo
+
+* Tablet mode (#3528)
+
 ## License
 
 This project is licensed under the GNU General Public License - see the [License file](LICENSE) file for details.
